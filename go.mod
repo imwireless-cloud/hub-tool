@@ -9,7 +9,7 @@ require (
 	github.com/cli/cli v1.1.0
 	github.com/cloudflare/cfssl v1.4.1 // indirect
 	github.com/containerd/containerd v1.4.3
-	github.com/docker/cli v20.10.3+incompatible
+	github.com/docker/cli v20.10.9+incompatible
 	github.com/docker/compose-cli v1.0.5-0.20201215113846-10a19b115968
 	github.com/docker/distribution v2.7.1+incompatible
 	github.com/docker/docker v20.10.3+incompatible
